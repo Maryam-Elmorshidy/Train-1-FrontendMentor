@@ -1,4 +1,4 @@
-# Train-1-Frontend-Mentor
+# Train-1-FrontendMentor
 training in Frontend Mentor Website , using HTML&amp;CSS
 
 ### During my educational trip in [Almadrasa](https://almdrasa.com/) 💻📚, i try to improve my ability in HTML&amp;CSS
